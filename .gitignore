@@ -104,3 +104,12 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+
+# data
+annotations/
+images/
+annotations.tar.gz
+images.tar.gz
+
+# lightning
+lightning_logs/
